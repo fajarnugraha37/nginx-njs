@@ -1,0 +1,16 @@
+{
+  "name": "nginx-njs-kit",
+  "version": "1.0.0",
+  "description": "Minimal Dockerized NGINX + njs playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "njs-types": "^0.9.1"
+  }
+}
